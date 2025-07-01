@@ -1,1 +1,4 @@
 # PICO_USB_MSC_DEVICE
+# STILL UNDER DEVELOPMENT
+#
+# CREDIT FOR PICO_SD_CARD_PC THANKS TO YOUTUBER " MCU Application Lab " LINS YOUTUBE : https://www.youtube.com/@MCUAppPrototypeLab
